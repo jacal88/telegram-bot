@@ -1,4 +1,4 @@
-git clone https://github.com/ТВОЙ_НИК/telegram-bot.git
+git clone https://github.com/jacal88/telegram-bot.git
 cd telegram-bot
 nano bot.py  # Вставь код бота
 git add .
